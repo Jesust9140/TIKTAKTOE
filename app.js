@@ -72,25 +72,7 @@ const winningCombination = [
       }
     });
   };
-  //Checking for winner
-  //creating a loop for the x o 
-//   const updateMessage = () => {
-//     if (!winner && !tie) {
-//       if (turn === 'X') {
-//         messageEl.textContent = "It's X's turn";
-//       } else {
-//         messageEl.textContent = "It's O's turn";
-//       }
-//     } else if (!winner && tie) {
-//       messageEl.textContent = 'Tie game!';
-//     } else {
-//       if (turn === 'X') {
-//         messageEl.textContent = 'X wins!';
-//       } else {
-//         messageEl.textContent = 'O wins!';
-//       }
-//     }
-//   };
+
 
 
 const updateMessage = () => {

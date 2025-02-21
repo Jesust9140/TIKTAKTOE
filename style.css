@@ -17,24 +17,27 @@ body {
   }
 
     /* Each Sqaure*/
-  .sqr{
-  width: 100px;
-  height: 100px;
-  display: inline-block;
-  border: 2px solid black;
-  font-size: 64px;
-  text-align: center;
-  line-height: 100px;
-  vertical-align: top;
-  background-color: white;
-  margin: 5px 0;} 
+   
+    .sqr {
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+        border: 2px solid black;
+        font-size: 64px;
+        text-align: center;
+        line-height: 100px;
+        vertical-align: top;
+        background-color: white;
+        margin: 5px 0;
+      }
+      
     /* button lay out*/
   button {
     margin: 10px;
     padding: 10px 20px;
     font-size: 16px;
-    background-color: white;
-    border: 2px solid black;
+    background-color: rgb(143, 136, 136);
+    border: 2px solid rgb(170, 159, 159);
     cursor: pointer;
   }
   
